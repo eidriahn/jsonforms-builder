@@ -1,6 +1,6 @@
 ## Json forms builder
 
-This is tiny project I have put up to help me build json forms for my job and have decided to share with the community.
+This is a tiny project I have put up to help me build json forms for my job and have decided to share with the community.
 
 
 ### Bugs
